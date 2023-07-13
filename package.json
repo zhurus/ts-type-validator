@@ -1,0 +1,16 @@
+{
+  "name": "js-type-validator",
+  "version": "1.0.0",
+  "description": "The utility to validate the types to correspond the schemes",
+  "main": "validator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}
